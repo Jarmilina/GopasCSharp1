@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\Documents\\2124\\lab09_01_Resources\\lab09_01_Resources\\lab09_01_Resources.csproj": {}
+    "C:\\Users\\Student\\Documents\\2124\\GopasCSharp1\\lab09_01_Resources\\lab09_01_Resources\\lab09_01_Resources.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\Documents\\2124\\lab09_01_Resources\\lab09_01_Resources\\lab09_01_Resources.csproj": {
+    "C:\\Users\\Student\\Documents\\2124\\GopasCSharp1\\lab09_01_Resources\\lab09_01_Resources\\lab09_01_Resources.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Documents\\2124\\lab09_01_Resources\\lab09_01_Resources\\lab09_01_Resources.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Documents\\2124\\GopasCSharp1\\lab09_01_Resources\\lab09_01_Resources\\lab09_01_Resources.csproj",
         "projectName": "lab09_01_Resources",
-        "projectPath": "C:\\Users\\Student\\Documents\\2124\\lab09_01_Resources\\lab09_01_Resources\\lab09_01_Resources.csproj",
+        "projectPath": "C:\\Users\\Student\\Documents\\2124\\GopasCSharp1\\lab09_01_Resources\\lab09_01_Resources\\lab09_01_Resources.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Documents\\2124\\lab09_01_Resources\\lab09_01_Resources\\obj\\",
+        "outputPath": "C:\\Users\\Student\\Documents\\2124\\GopasCSharp1\\lab09_01_Resources\\lab09_01_Resources\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

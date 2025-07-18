@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\2124\\lab09_01_Resources\\",
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\2124\\GopasCSharp1\\lab09_01_Resources\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FD939E7-C773-4EA5-8212-164837DA8CF2}|lab09_01_Resources\\lab09_01_Resources.csproj|c:\\users\\student\\documents\\2124\\lab09_01_resources\\lab09_01_resources\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FD939E7-C773-4EA5-8212-164837DA8CF2}|lab09_01_Resources\\lab09_01_Resources.csproj|c:\\users\\student\\documents\\2124\\gopascsharp1\\lab09_01_resources\\lab09_01_resources\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FD939E7-C773-4EA5-8212-164837DA8CF2}|lab09_01_Resources\\lab09_01_Resources.csproj|solutionrelative:lab09_01_resources\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\2124\\lab09_01_Resources\\lab09_01_Resources\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\2124\\GopasCSharp1\\lab09_01_Resources\\lab09_01_Resources\\Program.cs",
               "RelativeDocumentMoniker": "lab09_01_Resources\\Program.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\2124\\lab09_01_Resources\\lab09_01_Resources\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\2124\\GopasCSharp1\\lab09_01_Resources\\lab09_01_Resources\\Program.cs",
               "RelativeToolTip": "lab09_01_Resources\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T12:24:16.608Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

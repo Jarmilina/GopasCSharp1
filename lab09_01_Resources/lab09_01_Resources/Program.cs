@@ -5,7 +5,16 @@
         static void Main(string[] args)
         {
             FileStream fs = new FileStream();
-            fs.Open();
+
+            try
+            {
+                fs.Open();
+                int invalidOperation = int.Parse("Invalid"); // FormatException
+            }
+            finally
+            {
+                fs.Close();
+            }
         }
 
         class FileStream
