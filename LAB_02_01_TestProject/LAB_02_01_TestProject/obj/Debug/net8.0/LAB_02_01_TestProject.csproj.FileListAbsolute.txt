@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\LAB_02_01_TestProject\LAB_02_01_TestProject\bin\Debug\net8.0\LAB_02_01_TestProject.exe
+C:\Users\Student\Documents\2124\LAB_02_01_TestProject\LAB_02_01_TestProject\bin\Debug\net8.0\LAB_02_01_TestProject.deps.json
+C:\Users\Student\Documents\2124\LAB_02_01_TestProject\LAB_02_01_TestProject\bin\Debug\net8.0\LAB_02_01_TestProject.runtimeconfig.json
+C:\Users\Student\Documents\2124\LAB_02_01_TestProject\LAB_02_01_TestProject\bin\Debug\net8.0\LAB_02_01_TestProject.dll
+C:\Users\Student\Documents\2124\LAB_02_01_TestProject\LAB_02_01_TestProject\bin\Debug\net8.0\LAB_02_01_TestProject.pdb
+C:\Users\Student\Documents\2124\LAB_02_01_TestProject\LAB_02_01_TestProject\obj\Debug\net8.0\LAB_02_01_TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\LAB_02_01_TestProject\LAB_02_01_TestProject\obj\Debug\net8.0\LAB_02_01_TestProject.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\LAB_02_01_TestProject\LAB_02_01_TestProject\obj\Debug\net8.0\LAB_02_01_TestProject.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\LAB_02_01_TestProject\LAB_02_01_TestProject\obj\Debug\net8.0\LAB_02_01_TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\LAB_02_01_TestProject\LAB_02_01_TestProject\obj\Debug\net8.0\LAB_02_01_TestProject.dll
+C:\Users\Student\Documents\2124\LAB_02_01_TestProject\LAB_02_01_TestProject\obj\Debug\net8.0\refint\LAB_02_01_TestProject.dll
+C:\Users\Student\Documents\2124\LAB_02_01_TestProject\LAB_02_01_TestProject\obj\Debug\net8.0\LAB_02_01_TestProject.pdb
+C:\Users\Student\Documents\2124\LAB_02_01_TestProject\LAB_02_01_TestProject\obj\Debug\net8.0\LAB_02_01_TestProject.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\LAB_02_01_TestProject\LAB_02_01_TestProject\obj\Debug\net8.0\ref\LAB_02_01_TestProject.dll

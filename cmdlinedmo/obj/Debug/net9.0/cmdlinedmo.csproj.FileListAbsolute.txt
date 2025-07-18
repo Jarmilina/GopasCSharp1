@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\cmdlinedmo\bin\Debug\net9.0\cmdlinedmo.exe
+C:\Users\Student\Documents\2124\cmdlinedmo\bin\Debug\net9.0\cmdlinedmo.deps.json
+C:\Users\Student\Documents\2124\cmdlinedmo\bin\Debug\net9.0\cmdlinedmo.runtimeconfig.json
+C:\Users\Student\Documents\2124\cmdlinedmo\bin\Debug\net9.0\cmdlinedmo.dll
+C:\Users\Student\Documents\2124\cmdlinedmo\bin\Debug\net9.0\cmdlinedmo.pdb
+C:\Users\Student\Documents\2124\cmdlinedmo\obj\Debug\net9.0\cmdlinedmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\cmdlinedmo\obj\Debug\net9.0\cmdlinedmo.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\cmdlinedmo\obj\Debug\net9.0\cmdlinedmo.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\cmdlinedmo\obj\Debug\net9.0\cmdlinedmo.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\cmdlinedmo\obj\Debug\net9.0\cmdlinedmo.dll
+C:\Users\Student\Documents\2124\cmdlinedmo\obj\Debug\net9.0\refint\cmdlinedmo.dll
+C:\Users\Student\Documents\2124\cmdlinedmo\obj\Debug\net9.0\cmdlinedmo.pdb
+C:\Users\Student\Documents\2124\cmdlinedmo\obj\Debug\net9.0\cmdlinedmo.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\cmdlinedmo\obj\Debug\net9.0\ref\cmdlinedmo.dll

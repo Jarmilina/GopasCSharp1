@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab06_03_IndexAndRangeOperator\lab06_03_IndexAndRangeOperator\bin\Debug\net8.0\lab06_03_IndexAndRangeOperator.exe
+C:\Users\Student\Documents\2124\lab06_03_IndexAndRangeOperator\lab06_03_IndexAndRangeOperator\bin\Debug\net8.0\lab06_03_IndexAndRangeOperator.deps.json
+C:\Users\Student\Documents\2124\lab06_03_IndexAndRangeOperator\lab06_03_IndexAndRangeOperator\bin\Debug\net8.0\lab06_03_IndexAndRangeOperator.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab06_03_IndexAndRangeOperator\lab06_03_IndexAndRangeOperator\bin\Debug\net8.0\lab06_03_IndexAndRangeOperator.dll
+C:\Users\Student\Documents\2124\lab06_03_IndexAndRangeOperator\lab06_03_IndexAndRangeOperator\bin\Debug\net8.0\lab06_03_IndexAndRangeOperator.pdb
+C:\Users\Student\Documents\2124\lab06_03_IndexAndRangeOperator\lab06_03_IndexAndRangeOperator\obj\Debug\net8.0\lab06_03_IndexAndRangeOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab06_03_IndexAndRangeOperator\lab06_03_IndexAndRangeOperator\obj\Debug\net8.0\lab06_03_IndexAndRangeOperator.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab06_03_IndexAndRangeOperator\lab06_03_IndexAndRangeOperator\obj\Debug\net8.0\lab06_03_IndexAndRangeOperator.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab06_03_IndexAndRangeOperator\lab06_03_IndexAndRangeOperator\obj\Debug\net8.0\lab06_03_IndexAndRangeOperator.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab06_03_IndexAndRangeOperator\lab06_03_IndexAndRangeOperator\obj\Debug\net8.0\lab06_03_IndexAndRangeOperator.dll
+C:\Users\Student\Documents\2124\lab06_03_IndexAndRangeOperator\lab06_03_IndexAndRangeOperator\obj\Debug\net8.0\refint\lab06_03_IndexAndRangeOperator.dll
+C:\Users\Student\Documents\2124\lab06_03_IndexAndRangeOperator\lab06_03_IndexAndRangeOperator\obj\Debug\net8.0\lab06_03_IndexAndRangeOperator.pdb
+C:\Users\Student\Documents\2124\lab06_03_IndexAndRangeOperator\lab06_03_IndexAndRangeOperator\obj\Debug\net8.0\lab06_03_IndexAndRangeOperator.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab06_03_IndexAndRangeOperator\lab06_03_IndexAndRangeOperator\obj\Debug\net8.0\ref\lab06_03_IndexAndRangeOperator.dll

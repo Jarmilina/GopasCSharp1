@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\JarmilaCarClass\JarmilaCarClass\bin\Debug\net8.0\JarmilaCarClass.exe
+C:\Users\Student\Documents\2124\JarmilaCarClass\JarmilaCarClass\bin\Debug\net8.0\JarmilaCarClass.deps.json
+C:\Users\Student\Documents\2124\JarmilaCarClass\JarmilaCarClass\bin\Debug\net8.0\JarmilaCarClass.runtimeconfig.json
+C:\Users\Student\Documents\2124\JarmilaCarClass\JarmilaCarClass\bin\Debug\net8.0\JarmilaCarClass.dll
+C:\Users\Student\Documents\2124\JarmilaCarClass\JarmilaCarClass\bin\Debug\net8.0\JarmilaCarClass.pdb
+C:\Users\Student\Documents\2124\JarmilaCarClass\JarmilaCarClass\obj\Debug\net8.0\JarmilaCarClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\JarmilaCarClass\JarmilaCarClass\obj\Debug\net8.0\JarmilaCarClass.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\JarmilaCarClass\JarmilaCarClass\obj\Debug\net8.0\JarmilaCarClass.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\JarmilaCarClass\JarmilaCarClass\obj\Debug\net8.0\JarmilaCarClass.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\JarmilaCarClass\JarmilaCarClass\obj\Debug\net8.0\JarmilaCarClass.dll
+C:\Users\Student\Documents\2124\JarmilaCarClass\JarmilaCarClass\obj\Debug\net8.0\refint\JarmilaCarClass.dll
+C:\Users\Student\Documents\2124\JarmilaCarClass\JarmilaCarClass\obj\Debug\net8.0\JarmilaCarClass.pdb
+C:\Users\Student\Documents\2124\JarmilaCarClass\JarmilaCarClass\obj\Debug\net8.0\JarmilaCarClass.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\JarmilaCarClass\JarmilaCarClass\obj\Debug\net8.0\ref\JarmilaCarClass.dll

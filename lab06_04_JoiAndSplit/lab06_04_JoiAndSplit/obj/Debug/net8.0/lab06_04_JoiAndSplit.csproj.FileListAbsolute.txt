@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab06_04_JoiAndSplit\lab06_04_JoiAndSplit\bin\Debug\net8.0\lab06_04_JoiAndSplit.exe
+C:\Users\Student\Documents\2124\lab06_04_JoiAndSplit\lab06_04_JoiAndSplit\bin\Debug\net8.0\lab06_04_JoiAndSplit.deps.json
+C:\Users\Student\Documents\2124\lab06_04_JoiAndSplit\lab06_04_JoiAndSplit\bin\Debug\net8.0\lab06_04_JoiAndSplit.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab06_04_JoiAndSplit\lab06_04_JoiAndSplit\bin\Debug\net8.0\lab06_04_JoiAndSplit.dll
+C:\Users\Student\Documents\2124\lab06_04_JoiAndSplit\lab06_04_JoiAndSplit\bin\Debug\net8.0\lab06_04_JoiAndSplit.pdb
+C:\Users\Student\Documents\2124\lab06_04_JoiAndSplit\lab06_04_JoiAndSplit\obj\Debug\net8.0\lab06_04_JoiAndSplit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab06_04_JoiAndSplit\lab06_04_JoiAndSplit\obj\Debug\net8.0\lab06_04_JoiAndSplit.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab06_04_JoiAndSplit\lab06_04_JoiAndSplit\obj\Debug\net8.0\lab06_04_JoiAndSplit.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab06_04_JoiAndSplit\lab06_04_JoiAndSplit\obj\Debug\net8.0\lab06_04_JoiAndSplit.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab06_04_JoiAndSplit\lab06_04_JoiAndSplit\obj\Debug\net8.0\lab06_04_JoiAndSplit.dll
+C:\Users\Student\Documents\2124\lab06_04_JoiAndSplit\lab06_04_JoiAndSplit\obj\Debug\net8.0\refint\lab06_04_JoiAndSplit.dll
+C:\Users\Student\Documents\2124\lab06_04_JoiAndSplit\lab06_04_JoiAndSplit\obj\Debug\net8.0\lab06_04_JoiAndSplit.pdb
+C:\Users\Student\Documents\2124\lab06_04_JoiAndSplit\lab06_04_JoiAndSplit\obj\Debug\net8.0\lab06_04_JoiAndSplit.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab06_04_JoiAndSplit\lab06_04_JoiAndSplit\obj\Debug\net8.0\ref\lab06_04_JoiAndSplit.dll

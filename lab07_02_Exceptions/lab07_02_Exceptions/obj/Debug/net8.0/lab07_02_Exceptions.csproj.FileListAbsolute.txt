@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab07_02_Exceptions\lab07_02_Exceptions\bin\Debug\net8.0\lab07_02_Exceptions.exe
+C:\Users\Student\Documents\2124\lab07_02_Exceptions\lab07_02_Exceptions\bin\Debug\net8.0\lab07_02_Exceptions.deps.json
+C:\Users\Student\Documents\2124\lab07_02_Exceptions\lab07_02_Exceptions\bin\Debug\net8.0\lab07_02_Exceptions.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab07_02_Exceptions\lab07_02_Exceptions\bin\Debug\net8.0\lab07_02_Exceptions.dll
+C:\Users\Student\Documents\2124\lab07_02_Exceptions\lab07_02_Exceptions\bin\Debug\net8.0\lab07_02_Exceptions.pdb
+C:\Users\Student\Documents\2124\lab07_02_Exceptions\lab07_02_Exceptions\obj\Debug\net8.0\lab07_02_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab07_02_Exceptions\lab07_02_Exceptions\obj\Debug\net8.0\lab07_02_Exceptions.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab07_02_Exceptions\lab07_02_Exceptions\obj\Debug\net8.0\lab07_02_Exceptions.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab07_02_Exceptions\lab07_02_Exceptions\obj\Debug\net8.0\lab07_02_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab07_02_Exceptions\lab07_02_Exceptions\obj\Debug\net8.0\lab07_02_Exceptions.dll
+C:\Users\Student\Documents\2124\lab07_02_Exceptions\lab07_02_Exceptions\obj\Debug\net8.0\refint\lab07_02_Exceptions.dll
+C:\Users\Student\Documents\2124\lab07_02_Exceptions\lab07_02_Exceptions\obj\Debug\net8.0\lab07_02_Exceptions.pdb
+C:\Users\Student\Documents\2124\lab07_02_Exceptions\lab07_02_Exceptions\obj\Debug\net8.0\lab07_02_Exceptions.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab07_02_Exceptions\lab07_02_Exceptions\obj\Debug\net8.0\ref\lab07_02_Exceptions.dll

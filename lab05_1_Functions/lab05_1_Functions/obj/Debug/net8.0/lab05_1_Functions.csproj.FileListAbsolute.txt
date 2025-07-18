@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab05_1_Functions\lab05_1_Functions\bin\Debug\net8.0\lab05_1_Functions.exe
+C:\Users\Student\Documents\2124\lab05_1_Functions\lab05_1_Functions\bin\Debug\net8.0\lab05_1_Functions.deps.json
+C:\Users\Student\Documents\2124\lab05_1_Functions\lab05_1_Functions\bin\Debug\net8.0\lab05_1_Functions.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab05_1_Functions\lab05_1_Functions\bin\Debug\net8.0\lab05_1_Functions.dll
+C:\Users\Student\Documents\2124\lab05_1_Functions\lab05_1_Functions\bin\Debug\net8.0\lab05_1_Functions.pdb
+C:\Users\Student\Documents\2124\lab05_1_Functions\lab05_1_Functions\obj\Debug\net8.0\lab05_1_Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab05_1_Functions\lab05_1_Functions\obj\Debug\net8.0\lab05_1_Functions.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab05_1_Functions\lab05_1_Functions\obj\Debug\net8.0\lab05_1_Functions.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab05_1_Functions\lab05_1_Functions\obj\Debug\net8.0\lab05_1_Functions.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab05_1_Functions\lab05_1_Functions\obj\Debug\net8.0\lab05_1_Functions.dll
+C:\Users\Student\Documents\2124\lab05_1_Functions\lab05_1_Functions\obj\Debug\net8.0\refint\lab05_1_Functions.dll
+C:\Users\Student\Documents\2124\lab05_1_Functions\lab05_1_Functions\obj\Debug\net8.0\lab05_1_Functions.pdb
+C:\Users\Student\Documents\2124\lab05_1_Functions\lab05_1_Functions\obj\Debug\net8.0\lab05_1_Functions.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab05_1_Functions\lab05_1_Functions\obj\Debug\net8.0\ref\lab05_1_Functions.dll

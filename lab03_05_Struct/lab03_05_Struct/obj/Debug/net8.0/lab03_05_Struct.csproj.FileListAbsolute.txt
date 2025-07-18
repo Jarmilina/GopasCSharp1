@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab03_05_Struct\lab03_05_Struct\bin\Debug\net8.0\lab03_05_Struct.exe
+C:\Users\Student\Documents\2124\lab03_05_Struct\lab03_05_Struct\bin\Debug\net8.0\lab03_05_Struct.deps.json
+C:\Users\Student\Documents\2124\lab03_05_Struct\lab03_05_Struct\bin\Debug\net8.0\lab03_05_Struct.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab03_05_Struct\lab03_05_Struct\bin\Debug\net8.0\lab03_05_Struct.dll
+C:\Users\Student\Documents\2124\lab03_05_Struct\lab03_05_Struct\bin\Debug\net8.0\lab03_05_Struct.pdb
+C:\Users\Student\Documents\2124\lab03_05_Struct\lab03_05_Struct\obj\Debug\net8.0\lab03_05_Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab03_05_Struct\lab03_05_Struct\obj\Debug\net8.0\lab03_05_Struct.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab03_05_Struct\lab03_05_Struct\obj\Debug\net8.0\lab03_05_Struct.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab03_05_Struct\lab03_05_Struct\obj\Debug\net8.0\lab03_05_Struct.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab03_05_Struct\lab03_05_Struct\obj\Debug\net8.0\lab03_05_Struct.dll
+C:\Users\Student\Documents\2124\lab03_05_Struct\lab03_05_Struct\obj\Debug\net8.0\refint\lab03_05_Struct.dll
+C:\Users\Student\Documents\2124\lab03_05_Struct\lab03_05_Struct\obj\Debug\net8.0\lab03_05_Struct.pdb
+C:\Users\Student\Documents\2124\lab03_05_Struct\lab03_05_Struct\obj\Debug\net8.0\lab03_05_Struct.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab03_05_Struct\lab03_05_Struct\obj\Debug\net8.0\ref\lab03_05_Struct.dll

@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab08_04_RefTypes\lab08_04_RefTypes\bin\Debug\net8.0\lab08_04_RefTypes.exe
+C:\Users\Student\Documents\2124\lab08_04_RefTypes\lab08_04_RefTypes\bin\Debug\net8.0\lab08_04_RefTypes.deps.json
+C:\Users\Student\Documents\2124\lab08_04_RefTypes\lab08_04_RefTypes\bin\Debug\net8.0\lab08_04_RefTypes.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab08_04_RefTypes\lab08_04_RefTypes\bin\Debug\net8.0\lab08_04_RefTypes.dll
+C:\Users\Student\Documents\2124\lab08_04_RefTypes\lab08_04_RefTypes\bin\Debug\net8.0\lab08_04_RefTypes.pdb
+C:\Users\Student\Documents\2124\lab08_04_RefTypes\lab08_04_RefTypes\obj\Debug\net8.0\lab08_04_RefTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab08_04_RefTypes\lab08_04_RefTypes\obj\Debug\net8.0\lab08_04_RefTypes.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab08_04_RefTypes\lab08_04_RefTypes\obj\Debug\net8.0\lab08_04_RefTypes.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab08_04_RefTypes\lab08_04_RefTypes\obj\Debug\net8.0\lab08_04_RefTypes.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab08_04_RefTypes\lab08_04_RefTypes\obj\Debug\net8.0\lab08_04_RefTypes.dll
+C:\Users\Student\Documents\2124\lab08_04_RefTypes\lab08_04_RefTypes\obj\Debug\net8.0\refint\lab08_04_RefTypes.dll
+C:\Users\Student\Documents\2124\lab08_04_RefTypes\lab08_04_RefTypes\obj\Debug\net8.0\lab08_04_RefTypes.pdb
+C:\Users\Student\Documents\2124\lab08_04_RefTypes\lab08_04_RefTypes\obj\Debug\net8.0\lab08_04_RefTypes.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab08_04_RefTypes\lab08_04_RefTypes\obj\Debug\net8.0\ref\lab08_04_RefTypes.dll

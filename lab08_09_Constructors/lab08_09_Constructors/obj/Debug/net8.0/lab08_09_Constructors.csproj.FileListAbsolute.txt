@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab08_09_Constructors\lab08_09_Constructors\bin\Debug\net8.0\lab08_09_Constructors.exe
+C:\Users\Student\Documents\2124\lab08_09_Constructors\lab08_09_Constructors\bin\Debug\net8.0\lab08_09_Constructors.deps.json
+C:\Users\Student\Documents\2124\lab08_09_Constructors\lab08_09_Constructors\bin\Debug\net8.0\lab08_09_Constructors.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab08_09_Constructors\lab08_09_Constructors\bin\Debug\net8.0\lab08_09_Constructors.dll
+C:\Users\Student\Documents\2124\lab08_09_Constructors\lab08_09_Constructors\bin\Debug\net8.0\lab08_09_Constructors.pdb
+C:\Users\Student\Documents\2124\lab08_09_Constructors\lab08_09_Constructors\obj\Debug\net8.0\lab08_09_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab08_09_Constructors\lab08_09_Constructors\obj\Debug\net8.0\lab08_09_Constructors.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab08_09_Constructors\lab08_09_Constructors\obj\Debug\net8.0\lab08_09_Constructors.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab08_09_Constructors\lab08_09_Constructors\obj\Debug\net8.0\lab08_09_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab08_09_Constructors\lab08_09_Constructors\obj\Debug\net8.0\lab08_09_Constructors.dll
+C:\Users\Student\Documents\2124\lab08_09_Constructors\lab08_09_Constructors\obj\Debug\net8.0\refint\lab08_09_Constructors.dll
+C:\Users\Student\Documents\2124\lab08_09_Constructors\lab08_09_Constructors\obj\Debug\net8.0\lab08_09_Constructors.pdb
+C:\Users\Student\Documents\2124\lab08_09_Constructors\lab08_09_Constructors\obj\Debug\net8.0\lab08_09_Constructors.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab08_09_Constructors\lab08_09_Constructors\obj\Debug\net8.0\ref\lab08_09_Constructors.dll

@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\JarmilaWebHelper\JarmilaWebHelper\obj\Debug\net8.0\JarmilaWebHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\JarmilaWebHelper\JarmilaWebHelper\obj\Debug\net8.0\JarmilaWebHelper.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\JarmilaWebHelper\JarmilaWebHelper\obj\Debug\net8.0\JarmilaWebHelper.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\JarmilaWebHelper\JarmilaWebHelper\obj\Debug\net8.0\JarmilaWebHelper.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\JarmilaWebHelper\JarmilaWebHelper\bin\Debug\net8.0\JarmilaWebHelper.exe
+C:\Users\Student\Documents\2124\JarmilaWebHelper\JarmilaWebHelper\bin\Debug\net8.0\JarmilaWebHelper.deps.json
+C:\Users\Student\Documents\2124\JarmilaWebHelper\JarmilaWebHelper\bin\Debug\net8.0\JarmilaWebHelper.runtimeconfig.json
+C:\Users\Student\Documents\2124\JarmilaWebHelper\JarmilaWebHelper\bin\Debug\net8.0\JarmilaWebHelper.dll
+C:\Users\Student\Documents\2124\JarmilaWebHelper\JarmilaWebHelper\bin\Debug\net8.0\JarmilaWebHelper.pdb
+C:\Users\Student\Documents\2124\JarmilaWebHelper\JarmilaWebHelper\obj\Debug\net8.0\JarmilaWebHelper.dll
+C:\Users\Student\Documents\2124\JarmilaWebHelper\JarmilaWebHelper\obj\Debug\net8.0\refint\JarmilaWebHelper.dll
+C:\Users\Student\Documents\2124\JarmilaWebHelper\JarmilaWebHelper\obj\Debug\net8.0\JarmilaWebHelper.pdb
+C:\Users\Student\Documents\2124\JarmilaWebHelper\JarmilaWebHelper\obj\Debug\net8.0\JarmilaWebHelper.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\JarmilaWebHelper\JarmilaWebHelper\obj\Debug\net8.0\ref\JarmilaWebHelper.dll

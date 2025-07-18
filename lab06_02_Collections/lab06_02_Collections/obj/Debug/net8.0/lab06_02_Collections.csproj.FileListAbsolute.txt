@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab06_02_Collections\lab06_02_Collections\bin\Debug\net8.0\lab06_02_Collections.exe
+C:\Users\Student\Documents\2124\lab06_02_Collections\lab06_02_Collections\bin\Debug\net8.0\lab06_02_Collections.deps.json
+C:\Users\Student\Documents\2124\lab06_02_Collections\lab06_02_Collections\bin\Debug\net8.0\lab06_02_Collections.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab06_02_Collections\lab06_02_Collections\bin\Debug\net8.0\lab06_02_Collections.dll
+C:\Users\Student\Documents\2124\lab06_02_Collections\lab06_02_Collections\bin\Debug\net8.0\lab06_02_Collections.pdb
+C:\Users\Student\Documents\2124\lab06_02_Collections\lab06_02_Collections\obj\Debug\net8.0\lab06_02_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab06_02_Collections\lab06_02_Collections\obj\Debug\net8.0\lab06_02_Collections.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab06_02_Collections\lab06_02_Collections\obj\Debug\net8.0\lab06_02_Collections.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab06_02_Collections\lab06_02_Collections\obj\Debug\net8.0\lab06_02_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab06_02_Collections\lab06_02_Collections\obj\Debug\net8.0\lab06_02_Collections.dll
+C:\Users\Student\Documents\2124\lab06_02_Collections\lab06_02_Collections\obj\Debug\net8.0\refint\lab06_02_Collections.dll
+C:\Users\Student\Documents\2124\lab06_02_Collections\lab06_02_Collections\obj\Debug\net8.0\lab06_02_Collections.pdb
+C:\Users\Student\Documents\2124\lab06_02_Collections\lab06_02_Collections\obj\Debug\net8.0\lab06_02_Collections.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab06_02_Collections\lab06_02_Collections\obj\Debug\net8.0\ref\lab06_02_Collections.dll

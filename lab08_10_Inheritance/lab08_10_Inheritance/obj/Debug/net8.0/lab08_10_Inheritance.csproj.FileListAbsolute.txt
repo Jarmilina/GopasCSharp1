@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab08_10_Inheritance\lab08_10_Inheritance\obj\Debug\net8.0\lab08_10_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab08_10_Inheritance\lab08_10_Inheritance\obj\Debug\net8.0\lab08_10_Inheritance.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab08_10_Inheritance\lab08_10_Inheritance\obj\Debug\net8.0\lab08_10_Inheritance.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab08_10_Inheritance\lab08_10_Inheritance\obj\Debug\net8.0\lab08_10_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab08_10_Inheritance\lab08_10_Inheritance\bin\Debug\net8.0\lab08_10_Inheritance.exe
+C:\Users\Student\Documents\2124\lab08_10_Inheritance\lab08_10_Inheritance\bin\Debug\net8.0\lab08_10_Inheritance.deps.json
+C:\Users\Student\Documents\2124\lab08_10_Inheritance\lab08_10_Inheritance\bin\Debug\net8.0\lab08_10_Inheritance.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab08_10_Inheritance\lab08_10_Inheritance\bin\Debug\net8.0\lab08_10_Inheritance.dll
+C:\Users\Student\Documents\2124\lab08_10_Inheritance\lab08_10_Inheritance\bin\Debug\net8.0\lab08_10_Inheritance.pdb
+C:\Users\Student\Documents\2124\lab08_10_Inheritance\lab08_10_Inheritance\obj\Debug\net8.0\lab08_10_Inheritance.dll
+C:\Users\Student\Documents\2124\lab08_10_Inheritance\lab08_10_Inheritance\obj\Debug\net8.0\refint\lab08_10_Inheritance.dll
+C:\Users\Student\Documents\2124\lab08_10_Inheritance\lab08_10_Inheritance\obj\Debug\net8.0\lab08_10_Inheritance.pdb
+C:\Users\Student\Documents\2124\lab08_10_Inheritance\lab08_10_Inheritance\obj\Debug\net8.0\lab08_10_Inheritance.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab08_10_Inheritance\lab08_10_Inheritance\obj\Debug\net8.0\ref\lab08_10_Inheritance.dll

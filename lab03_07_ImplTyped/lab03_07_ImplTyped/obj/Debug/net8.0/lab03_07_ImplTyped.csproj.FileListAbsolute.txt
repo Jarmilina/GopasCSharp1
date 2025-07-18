@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab03_07_ImplTyped\lab03_07_ImplTyped\bin\Debug\net8.0\lab03_07_ImplTyped.exe
+C:\Users\Student\Documents\2124\lab03_07_ImplTyped\lab03_07_ImplTyped\bin\Debug\net8.0\lab03_07_ImplTyped.deps.json
+C:\Users\Student\Documents\2124\lab03_07_ImplTyped\lab03_07_ImplTyped\bin\Debug\net8.0\lab03_07_ImplTyped.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab03_07_ImplTyped\lab03_07_ImplTyped\bin\Debug\net8.0\lab03_07_ImplTyped.dll
+C:\Users\Student\Documents\2124\lab03_07_ImplTyped\lab03_07_ImplTyped\bin\Debug\net8.0\lab03_07_ImplTyped.pdb
+C:\Users\Student\Documents\2124\lab03_07_ImplTyped\lab03_07_ImplTyped\obj\Debug\net8.0\lab03_07_ImplTyped.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab03_07_ImplTyped\lab03_07_ImplTyped\obj\Debug\net8.0\lab03_07_ImplTyped.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab03_07_ImplTyped\lab03_07_ImplTyped\obj\Debug\net8.0\lab03_07_ImplTyped.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab03_07_ImplTyped\lab03_07_ImplTyped\obj\Debug\net8.0\lab03_07_ImplTyped.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab03_07_ImplTyped\lab03_07_ImplTyped\obj\Debug\net8.0\lab03_07_ImplTyped.dll
+C:\Users\Student\Documents\2124\lab03_07_ImplTyped\lab03_07_ImplTyped\obj\Debug\net8.0\refint\lab03_07_ImplTyped.dll
+C:\Users\Student\Documents\2124\lab03_07_ImplTyped\lab03_07_ImplTyped\obj\Debug\net8.0\lab03_07_ImplTyped.pdb
+C:\Users\Student\Documents\2124\lab03_07_ImplTyped\lab03_07_ImplTyped\obj\Debug\net8.0\lab03_07_ImplTyped.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab03_07_ImplTyped\lab03_07_ImplTyped\obj\Debug\net8.0\ref\lab03_07_ImplTyped.dll

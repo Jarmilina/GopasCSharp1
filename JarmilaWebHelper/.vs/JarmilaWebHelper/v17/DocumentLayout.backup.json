@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\2124\\JarmilaWebHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB9C726-6B29-4255-8343-82C6CCF4B300}|JarmilaWebHelper\\JarmilaWebHelper.csproj|c:\\users\\student\\documents\\2124\\jarmilawebhelper\\jarmilawebhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB9C726-6B29-4255-8343-82C6CCF4B300}|JarmilaWebHelper\\JarmilaWebHelper.csproj|solutionrelative:jarmilawebhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\2124\\JarmilaWebHelper\\JarmilaWebHelper\\Program.cs",
+              "RelativeDocumentMoniker": "JarmilaWebHelper\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\2124\\JarmilaWebHelper\\JarmilaWebHelper\\Program.cs",
+              "RelativeToolTip": "JarmilaWebHelper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:42:19.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

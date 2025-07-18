@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\2124\\lab08_07_Property\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69B1C6AA-5C94-4CCE-A66B-884032EB35A5}|lab08_07_Property\\lab08_07_Property.csproj|c:\\users\\student\\documents\\2124\\lab08_07_property\\lab08_07_property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B1C6AA-5C94-4CCE-A66B-884032EB35A5}|lab08_07_Property\\lab08_07_Property.csproj|solutionrelative:lab08_07_property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B1C6AA-5C94-4CCE-A66B-884032EB35A5}|lab08_07_Property\\lab08_07_Property.csproj|c:\\users\\student\\documents\\2124\\lab08_07_property\\lab08_07_property\\lab08_07_property.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{69B1C6AA-5C94-4CCE-A66B-884032EB35A5}|lab08_07_Property\\lab08_07_Property.csproj|solutionrelative:lab08_07_property\\lab08_07_property.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\2124\\lab08_07_Property\\lab08_07_Property\\Program.cs",
+              "RelativeDocumentMoniker": "lab08_07_Property\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\2124\\lab08_07_Property\\lab08_07_Property\\Program.cs*",
+              "RelativeToolTip": "lab08_07_Property\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:59:10.232Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab08_07_Property",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\2124\\lab08_07_Property\\lab08_07_Property\\lab08_07_Property.csproj",
+              "RelativeDocumentMoniker": "lab08_07_Property\\lab08_07_Property.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\2124\\lab08_07_Property\\lab08_07_Property\\lab08_07_Property.csproj",
+              "RelativeToolTip": "lab08_07_Property\\lab08_07_Property.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-18T08:08:06.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

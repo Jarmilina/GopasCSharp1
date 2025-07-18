@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\2124\\lab08_05_Null\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDE2204-8FDC-4085-AE97-2D448A892DCF}|lab08_05_Null\\lab08_05_Null.csproj|c:\\users\\student\\documents\\2124\\lab08_05_null\\lab08_05_null\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDE2204-8FDC-4085-AE97-2D448A892DCF}|lab08_05_Null\\lab08_05_Null.csproj|solutionrelative:lab08_05_null\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDE2204-8FDC-4085-AE97-2D448A892DCF}|lab08_05_Null\\lab08_05_Null.csproj|c:\\users\\student\\documents\\2124\\lab08_05_null\\lab08_05_null\\lab08_05_null.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0BDE2204-8FDC-4085-AE97-2D448A892DCF}|lab08_05_Null\\lab08_05_Null.csproj|solutionrelative:lab08_05_null\\lab08_05_null.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab08_05_Null",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\2124\\lab08_05_Null\\lab08_05_Null\\lab08_05_Null.csproj",
+              "RelativeDocumentMoniker": "lab08_05_Null\\lab08_05_Null.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\2124\\lab08_05_Null\\lab08_05_Null\\lab08_05_Null.csproj",
+              "RelativeToolTip": "lab08_05_Null\\lab08_05_Null.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T13:44:36.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\2124\\lab08_05_Null\\lab08_05_Null\\Program.cs",
+              "RelativeDocumentMoniker": "lab08_05_Null\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\2124\\lab08_05_Null\\lab08_05_Null\\Program.cs",
+              "RelativeToolTip": "lab08_05_Null\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:17:21.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

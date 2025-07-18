@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\LAB_03_04_Enum\LAB_03_04_Enum\bin\Debug\net8.0\LAB_03_04_Enum.exe
+C:\Users\Student\Documents\2124\LAB_03_04_Enum\LAB_03_04_Enum\bin\Debug\net8.0\LAB_03_04_Enum.deps.json
+C:\Users\Student\Documents\2124\LAB_03_04_Enum\LAB_03_04_Enum\bin\Debug\net8.0\LAB_03_04_Enum.runtimeconfig.json
+C:\Users\Student\Documents\2124\LAB_03_04_Enum\LAB_03_04_Enum\bin\Debug\net8.0\LAB_03_04_Enum.dll
+C:\Users\Student\Documents\2124\LAB_03_04_Enum\LAB_03_04_Enum\bin\Debug\net8.0\LAB_03_04_Enum.pdb
+C:\Users\Student\Documents\2124\LAB_03_04_Enum\LAB_03_04_Enum\obj\Debug\net8.0\LAB_03_04_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\LAB_03_04_Enum\LAB_03_04_Enum\obj\Debug\net8.0\LAB_03_04_Enum.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\LAB_03_04_Enum\LAB_03_04_Enum\obj\Debug\net8.0\LAB_03_04_Enum.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\LAB_03_04_Enum\LAB_03_04_Enum\obj\Debug\net8.0\LAB_03_04_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\LAB_03_04_Enum\LAB_03_04_Enum\obj\Debug\net8.0\LAB_03_04_Enum.dll
+C:\Users\Student\Documents\2124\LAB_03_04_Enum\LAB_03_04_Enum\obj\Debug\net8.0\refint\LAB_03_04_Enum.dll
+C:\Users\Student\Documents\2124\LAB_03_04_Enum\LAB_03_04_Enum\obj\Debug\net8.0\LAB_03_04_Enum.pdb
+C:\Users\Student\Documents\2124\LAB_03_04_Enum\LAB_03_04_Enum\obj\Debug\net8.0\LAB_03_04_Enum.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\LAB_03_04_Enum\LAB_03_04_Enum\obj\Debug\net8.0\ref\LAB_03_04_Enum.dll

@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\JarmilaCommandLine\JarmilaCommandLine\bin\Debug\net8.0\JarmilaCommandLine.exe
+C:\Users\Student\Documents\2124\JarmilaCommandLine\JarmilaCommandLine\bin\Debug\net8.0\JarmilaCommandLine.deps.json
+C:\Users\Student\Documents\2124\JarmilaCommandLine\JarmilaCommandLine\bin\Debug\net8.0\JarmilaCommandLine.runtimeconfig.json
+C:\Users\Student\Documents\2124\JarmilaCommandLine\JarmilaCommandLine\bin\Debug\net8.0\JarmilaCommandLine.dll
+C:\Users\Student\Documents\2124\JarmilaCommandLine\JarmilaCommandLine\bin\Debug\net8.0\JarmilaCommandLine.pdb
+C:\Users\Student\Documents\2124\JarmilaCommandLine\JarmilaCommandLine\obj\Debug\net8.0\JarmilaCommandLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\JarmilaCommandLine\JarmilaCommandLine\obj\Debug\net8.0\JarmilaCommandLine.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\JarmilaCommandLine\JarmilaCommandLine\obj\Debug\net8.0\JarmilaCommandLine.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\JarmilaCommandLine\JarmilaCommandLine\obj\Debug\net8.0\JarmilaCommandLine.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\JarmilaCommandLine\JarmilaCommandLine\obj\Debug\net8.0\JarmilaCommandLine.dll
+C:\Users\Student\Documents\2124\JarmilaCommandLine\JarmilaCommandLine\obj\Debug\net8.0\refint\JarmilaCommandLine.dll
+C:\Users\Student\Documents\2124\JarmilaCommandLine\JarmilaCommandLine\obj\Debug\net8.0\JarmilaCommandLine.pdb
+C:\Users\Student\Documents\2124\JarmilaCommandLine\JarmilaCommandLine\obj\Debug\net8.0\JarmilaCommandLine.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\JarmilaCommandLine\JarmilaCommandLine\obj\Debug\net8.0\ref\JarmilaCommandLine.dll

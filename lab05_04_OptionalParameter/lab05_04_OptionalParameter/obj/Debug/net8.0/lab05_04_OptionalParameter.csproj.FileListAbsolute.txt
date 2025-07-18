@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab05_04_OptionalParameter\lab05_04_OptionalParameter\obj\Debug\net8.0\lab05_04_OptionalParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab05_04_OptionalParameter\lab05_04_OptionalParameter\obj\Debug\net8.0\lab05_04_OptionalParameter.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab05_04_OptionalParameter\lab05_04_OptionalParameter\obj\Debug\net8.0\lab05_04_OptionalParameter.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab05_04_OptionalParameter\lab05_04_OptionalParameter\obj\Debug\net8.0\lab05_04_OptionalParameter.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab05_04_OptionalParameter\lab05_04_OptionalParameter\bin\Debug\net8.0\lab05_04_OptionalParameter.exe
+C:\Users\Student\Documents\2124\lab05_04_OptionalParameter\lab05_04_OptionalParameter\bin\Debug\net8.0\lab05_04_OptionalParameter.deps.json
+C:\Users\Student\Documents\2124\lab05_04_OptionalParameter\lab05_04_OptionalParameter\bin\Debug\net8.0\lab05_04_OptionalParameter.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab05_04_OptionalParameter\lab05_04_OptionalParameter\bin\Debug\net8.0\lab05_04_OptionalParameter.dll
+C:\Users\Student\Documents\2124\lab05_04_OptionalParameter\lab05_04_OptionalParameter\bin\Debug\net8.0\lab05_04_OptionalParameter.pdb
+C:\Users\Student\Documents\2124\lab05_04_OptionalParameter\lab05_04_OptionalParameter\obj\Debug\net8.0\lab05_04_OptionalParameter.dll
+C:\Users\Student\Documents\2124\lab05_04_OptionalParameter\lab05_04_OptionalParameter\obj\Debug\net8.0\refint\lab05_04_OptionalParameter.dll
+C:\Users\Student\Documents\2124\lab05_04_OptionalParameter\lab05_04_OptionalParameter\obj\Debug\net8.0\lab05_04_OptionalParameter.pdb
+C:\Users\Student\Documents\2124\lab05_04_OptionalParameter\lab05_04_OptionalParameter\obj\Debug\net8.0\lab05_04_OptionalParameter.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab05_04_OptionalParameter\lab05_04_OptionalParameter\obj\Debug\net8.0\ref\lab05_04_OptionalParameter.dll

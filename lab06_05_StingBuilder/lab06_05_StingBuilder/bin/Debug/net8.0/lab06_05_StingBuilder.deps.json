@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lab06_05_StingBuilder/1.0.0": {
+        "runtime": {
+          "lab06_05_StingBuilder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab06_05_StingBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

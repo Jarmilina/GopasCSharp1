@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab04_03_ForLoop\lab04_03_ForLoop\bin\Debug\net8.0\lab04_03_ForLoop.exe
+C:\Users\Student\Documents\2124\lab04_03_ForLoop\lab04_03_ForLoop\bin\Debug\net8.0\lab04_03_ForLoop.deps.json
+C:\Users\Student\Documents\2124\lab04_03_ForLoop\lab04_03_ForLoop\bin\Debug\net8.0\lab04_03_ForLoop.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab04_03_ForLoop\lab04_03_ForLoop\bin\Debug\net8.0\lab04_03_ForLoop.dll
+C:\Users\Student\Documents\2124\lab04_03_ForLoop\lab04_03_ForLoop\bin\Debug\net8.0\lab04_03_ForLoop.pdb
+C:\Users\Student\Documents\2124\lab04_03_ForLoop\lab04_03_ForLoop\obj\Debug\net8.0\lab04_03_ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab04_03_ForLoop\lab04_03_ForLoop\obj\Debug\net8.0\lab04_03_ForLoop.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab04_03_ForLoop\lab04_03_ForLoop\obj\Debug\net8.0\lab04_03_ForLoop.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab04_03_ForLoop\lab04_03_ForLoop\obj\Debug\net8.0\lab04_03_ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab04_03_ForLoop\lab04_03_ForLoop\obj\Debug\net8.0\lab04_03_ForLoop.dll
+C:\Users\Student\Documents\2124\lab04_03_ForLoop\lab04_03_ForLoop\obj\Debug\net8.0\refint\lab04_03_ForLoop.dll
+C:\Users\Student\Documents\2124\lab04_03_ForLoop\lab04_03_ForLoop\obj\Debug\net8.0\lab04_03_ForLoop.pdb
+C:\Users\Student\Documents\2124\lab04_03_ForLoop\lab04_03_ForLoop\obj\Debug\net8.0\lab04_03_ForLoop.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab04_03_ForLoop\lab04_03_ForLoop\obj\Debug\net8.0\ref\lab04_03_ForLoop.dll

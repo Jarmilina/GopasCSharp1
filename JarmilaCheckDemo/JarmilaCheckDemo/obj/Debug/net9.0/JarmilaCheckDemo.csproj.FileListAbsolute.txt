@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\JarmilaCheckDemo\JarmilaCheckDemo\bin\Debug\net9.0\JarmilaCheckDemo.exe
+C:\Users\Student\Documents\2124\JarmilaCheckDemo\JarmilaCheckDemo\bin\Debug\net9.0\JarmilaCheckDemo.deps.json
+C:\Users\Student\Documents\2124\JarmilaCheckDemo\JarmilaCheckDemo\bin\Debug\net9.0\JarmilaCheckDemo.runtimeconfig.json
+C:\Users\Student\Documents\2124\JarmilaCheckDemo\JarmilaCheckDemo\bin\Debug\net9.0\JarmilaCheckDemo.dll
+C:\Users\Student\Documents\2124\JarmilaCheckDemo\JarmilaCheckDemo\bin\Debug\net9.0\JarmilaCheckDemo.pdb
+C:\Users\Student\Documents\2124\JarmilaCheckDemo\JarmilaCheckDemo\obj\Debug\net9.0\JarmilaCheckDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\JarmilaCheckDemo\JarmilaCheckDemo\obj\Debug\net9.0\JarmilaCheckDemo.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\JarmilaCheckDemo\JarmilaCheckDemo\obj\Debug\net9.0\JarmilaCheckDemo.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\JarmilaCheckDemo\JarmilaCheckDemo\obj\Debug\net9.0\JarmilaCheckDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\JarmilaCheckDemo\JarmilaCheckDemo\obj\Debug\net9.0\JarmilaCheckDemo.dll
+C:\Users\Student\Documents\2124\JarmilaCheckDemo\JarmilaCheckDemo\obj\Debug\net9.0\refint\JarmilaCheckDemo.dll
+C:\Users\Student\Documents\2124\JarmilaCheckDemo\JarmilaCheckDemo\obj\Debug\net9.0\JarmilaCheckDemo.pdb
+C:\Users\Student\Documents\2124\JarmilaCheckDemo\JarmilaCheckDemo\obj\Debug\net9.0\JarmilaCheckDemo.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\JarmilaCheckDemo\JarmilaCheckDemo\obj\Debug\net9.0\ref\JarmilaCheckDemo.dll

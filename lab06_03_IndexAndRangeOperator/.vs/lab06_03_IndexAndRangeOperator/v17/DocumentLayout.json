@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\2124\\lab06_03_IndexAndRangeOperator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AE682-524A-4878-850A-D0B970636511}|lab06_03_IndexAndRangeOperator\\lab06_03_IndexAndRangeOperator.csproj|c:\\users\\student\\documents\\2124\\lab06_03_indexandrangeoperator\\lab06_03_indexandrangeoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AE682-524A-4878-850A-D0B970636511}|lab06_03_IndexAndRangeOperator\\lab06_03_IndexAndRangeOperator.csproj|solutionrelative:lab06_03_indexandrangeoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\2124\\lab06_03_IndexAndRangeOperator\\lab06_03_IndexAndRangeOperator\\Program.cs",
+              "RelativeDocumentMoniker": "lab06_03_IndexAndRangeOperator\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\2124\\lab06_03_IndexAndRangeOperator\\lab06_03_IndexAndRangeOperator\\Program.cs",
+              "RelativeToolTip": "lab06_03_IndexAndRangeOperator\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:36:43.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

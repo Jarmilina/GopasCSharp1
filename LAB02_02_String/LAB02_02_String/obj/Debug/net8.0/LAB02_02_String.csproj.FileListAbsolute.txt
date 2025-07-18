@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\LAB02_02_String\LAB02_02_String\bin\Debug\net8.0\LAB02_02_String.exe
+C:\Users\Student\Documents\2124\LAB02_02_String\LAB02_02_String\bin\Debug\net8.0\LAB02_02_String.deps.json
+C:\Users\Student\Documents\2124\LAB02_02_String\LAB02_02_String\bin\Debug\net8.0\LAB02_02_String.runtimeconfig.json
+C:\Users\Student\Documents\2124\LAB02_02_String\LAB02_02_String\bin\Debug\net8.0\LAB02_02_String.dll
+C:\Users\Student\Documents\2124\LAB02_02_String\LAB02_02_String\bin\Debug\net8.0\LAB02_02_String.pdb
+C:\Users\Student\Documents\2124\LAB02_02_String\LAB02_02_String\obj\Debug\net8.0\LAB02_02_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\LAB02_02_String\LAB02_02_String\obj\Debug\net8.0\LAB02_02_String.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\LAB02_02_String\LAB02_02_String\obj\Debug\net8.0\LAB02_02_String.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\LAB02_02_String\LAB02_02_String\obj\Debug\net8.0\LAB02_02_String.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\LAB02_02_String\LAB02_02_String\obj\Debug\net8.0\LAB02_02_String.dll
+C:\Users\Student\Documents\2124\LAB02_02_String\LAB02_02_String\obj\Debug\net8.0\refint\LAB02_02_String.dll
+C:\Users\Student\Documents\2124\LAB02_02_String\LAB02_02_String\obj\Debug\net8.0\LAB02_02_String.pdb
+C:\Users\Student\Documents\2124\LAB02_02_String\LAB02_02_String\obj\Debug\net8.0\LAB02_02_String.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\LAB02_02_String\LAB02_02_String\obj\Debug\net8.0\ref\LAB02_02_String.dll

@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\LAB03_03_variables\LAB03_03_variables\obj\Debug\net8.0\LAB03_03_variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\LAB03_03_variables\LAB03_03_variables\obj\Debug\net8.0\LAB03_03_variables.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\LAB03_03_variables\LAB03_03_variables\obj\Debug\net8.0\LAB03_03_variables.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\LAB03_03_variables\LAB03_03_variables\obj\Debug\net8.0\LAB03_03_variables.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\LAB03_03_variables\LAB03_03_variables\bin\Debug\net8.0\LAB03_03_variables.exe
+C:\Users\Student\Documents\2124\LAB03_03_variables\LAB03_03_variables\bin\Debug\net8.0\LAB03_03_variables.deps.json
+C:\Users\Student\Documents\2124\LAB03_03_variables\LAB03_03_variables\bin\Debug\net8.0\LAB03_03_variables.runtimeconfig.json
+C:\Users\Student\Documents\2124\LAB03_03_variables\LAB03_03_variables\bin\Debug\net8.0\LAB03_03_variables.dll
+C:\Users\Student\Documents\2124\LAB03_03_variables\LAB03_03_variables\bin\Debug\net8.0\LAB03_03_variables.pdb
+C:\Users\Student\Documents\2124\LAB03_03_variables\LAB03_03_variables\obj\Debug\net8.0\LAB03_03_variables.dll
+C:\Users\Student\Documents\2124\LAB03_03_variables\LAB03_03_variables\obj\Debug\net8.0\refint\LAB03_03_variables.dll
+C:\Users\Student\Documents\2124\LAB03_03_variables\LAB03_03_variables\obj\Debug\net8.0\LAB03_03_variables.pdb
+C:\Users\Student\Documents\2124\LAB03_03_variables\LAB03_03_variables\obj\Debug\net8.0\LAB03_03_variables.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\LAB03_03_variables\LAB03_03_variables\obj\Debug\net8.0\ref\LAB03_03_variables.dll

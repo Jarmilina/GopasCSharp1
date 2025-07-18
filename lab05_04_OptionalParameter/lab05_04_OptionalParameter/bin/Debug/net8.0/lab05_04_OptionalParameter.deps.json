@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lab05_04_OptionalParameter/1.0.0": {
+        "runtime": {
+          "lab05_04_OptionalParameter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab05_04_OptionalParameter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab08_05_Null\lab08_05_Null\bin\Debug\net8.0\lab08_05_Null.exe
+C:\Users\Student\Documents\2124\lab08_05_Null\lab08_05_Null\bin\Debug\net8.0\lab08_05_Null.deps.json
+C:\Users\Student\Documents\2124\lab08_05_Null\lab08_05_Null\bin\Debug\net8.0\lab08_05_Null.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab08_05_Null\lab08_05_Null\bin\Debug\net8.0\lab08_05_Null.dll
+C:\Users\Student\Documents\2124\lab08_05_Null\lab08_05_Null\bin\Debug\net8.0\lab08_05_Null.pdb
+C:\Users\Student\Documents\2124\lab08_05_Null\lab08_05_Null\obj\Debug\net8.0\lab08_05_Null.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab08_05_Null\lab08_05_Null\obj\Debug\net8.0\lab08_05_Null.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab08_05_Null\lab08_05_Null\obj\Debug\net8.0\lab08_05_Null.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab08_05_Null\lab08_05_Null\obj\Debug\net8.0\lab08_05_Null.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab08_05_Null\lab08_05_Null\obj\Debug\net8.0\lab08_05_Null.dll
+C:\Users\Student\Documents\2124\lab08_05_Null\lab08_05_Null\obj\Debug\net8.0\refint\lab08_05_Null.dll
+C:\Users\Student\Documents\2124\lab08_05_Null\lab08_05_Null\obj\Debug\net8.0\lab08_05_Null.pdb
+C:\Users\Student\Documents\2124\lab08_05_Null\lab08_05_Null\obj\Debug\net8.0\lab08_05_Null.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab08_05_Null\lab08_05_Null\obj\Debug\net8.0\ref\lab08_05_Null.dll

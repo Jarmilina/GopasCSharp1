@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\2124\\lab_04_01_Conditions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BF0FD0-E993-48FF-BB0A-1D2D7D141B0E}|lab_04_01_Conditions\\lab_04_01_Conditions.csproj|c:\\users\\student\\documents\\2124\\lab_04_01_conditions\\lab_04_01_conditions\\jarmila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BF0FD0-E993-48FF-BB0A-1D2D7D141B0E}|lab_04_01_Conditions\\lab_04_01_Conditions.csproj|solutionrelative:lab_04_01_conditions\\jarmila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BF0FD0-E993-48FF-BB0A-1D2D7D141B0E}|lab_04_01_Conditions\\lab_04_01_Conditions.csproj|c:\\users\\student\\documents\\2124\\lab_04_01_conditions\\lab_04_01_conditions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BF0FD0-E993-48FF-BB0A-1D2D7D141B0E}|lab_04_01_Conditions\\lab_04_01_Conditions.csproj|solutionrelative:lab_04_01_conditions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jarmila.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\2124\\lab_04_01_Conditions\\lab_04_01_Conditions\\Jarmila.cs",
+              "RelativeDocumentMoniker": "lab_04_01_Conditions\\Jarmila.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\2124\\lab_04_01_Conditions\\lab_04_01_Conditions\\Jarmila.cs",
+              "RelativeToolTip": "lab_04_01_Conditions\\Jarmila.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:49:06.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\2124\\lab_04_01_Conditions\\lab_04_01_Conditions\\Program.cs",
+              "RelativeDocumentMoniker": "lab_04_01_Conditions\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\2124\\lab_04_01_Conditions\\lab_04_01_Conditions\\Program.cs",
+              "RelativeToolTip": "lab_04_01_Conditions\\Program.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T08:19:29.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

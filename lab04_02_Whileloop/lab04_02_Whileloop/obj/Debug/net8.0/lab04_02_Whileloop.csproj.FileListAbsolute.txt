@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab04_02_Whileloop\lab04_02_Whileloop\bin\Debug\net8.0\lab04_02_Whileloop.exe
+C:\Users\Student\Documents\2124\lab04_02_Whileloop\lab04_02_Whileloop\bin\Debug\net8.0\lab04_02_Whileloop.deps.json
+C:\Users\Student\Documents\2124\lab04_02_Whileloop\lab04_02_Whileloop\bin\Debug\net8.0\lab04_02_Whileloop.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab04_02_Whileloop\lab04_02_Whileloop\bin\Debug\net8.0\lab04_02_Whileloop.dll
+C:\Users\Student\Documents\2124\lab04_02_Whileloop\lab04_02_Whileloop\bin\Debug\net8.0\lab04_02_Whileloop.pdb
+C:\Users\Student\Documents\2124\lab04_02_Whileloop\lab04_02_Whileloop\obj\Debug\net8.0\lab04_02_Whileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab04_02_Whileloop\lab04_02_Whileloop\obj\Debug\net8.0\lab04_02_Whileloop.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab04_02_Whileloop\lab04_02_Whileloop\obj\Debug\net8.0\lab04_02_Whileloop.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab04_02_Whileloop\lab04_02_Whileloop\obj\Debug\net8.0\lab04_02_Whileloop.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab04_02_Whileloop\lab04_02_Whileloop\obj\Debug\net8.0\lab04_02_Whileloop.dll
+C:\Users\Student\Documents\2124\lab04_02_Whileloop\lab04_02_Whileloop\obj\Debug\net8.0\refint\lab04_02_Whileloop.dll
+C:\Users\Student\Documents\2124\lab04_02_Whileloop\lab04_02_Whileloop\obj\Debug\net8.0\lab04_02_Whileloop.pdb
+C:\Users\Student\Documents\2124\lab04_02_Whileloop\lab04_02_Whileloop\obj\Debug\net8.0\lab04_02_Whileloop.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab04_02_Whileloop\lab04_02_Whileloop\obj\Debug\net8.0\ref\lab04_02_Whileloop.dll

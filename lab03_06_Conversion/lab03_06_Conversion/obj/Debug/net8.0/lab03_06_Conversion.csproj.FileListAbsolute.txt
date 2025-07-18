@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab03_06_Conversion\lab03_06_Conversion\obj\Debug\net8.0\lab03_06_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab03_06_Conversion\lab03_06_Conversion\obj\Debug\net8.0\lab03_06_Conversion.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab03_06_Conversion\lab03_06_Conversion\obj\Debug\net8.0\lab03_06_Conversion.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab03_06_Conversion\lab03_06_Conversion\obj\Debug\net8.0\lab03_06_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab03_06_Conversion\lab03_06_Conversion\bin\Debug\net8.0\lab03_06_Conversion.exe
+C:\Users\Student\Documents\2124\lab03_06_Conversion\lab03_06_Conversion\bin\Debug\net8.0\lab03_06_Conversion.deps.json
+C:\Users\Student\Documents\2124\lab03_06_Conversion\lab03_06_Conversion\bin\Debug\net8.0\lab03_06_Conversion.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab03_06_Conversion\lab03_06_Conversion\bin\Debug\net8.0\lab03_06_Conversion.dll
+C:\Users\Student\Documents\2124\lab03_06_Conversion\lab03_06_Conversion\bin\Debug\net8.0\lab03_06_Conversion.pdb
+C:\Users\Student\Documents\2124\lab03_06_Conversion\lab03_06_Conversion\obj\Debug\net8.0\lab03_06_Conversion.dll
+C:\Users\Student\Documents\2124\lab03_06_Conversion\lab03_06_Conversion\obj\Debug\net8.0\refint\lab03_06_Conversion.dll
+C:\Users\Student\Documents\2124\lab03_06_Conversion\lab03_06_Conversion\obj\Debug\net8.0\lab03_06_Conversion.pdb
+C:\Users\Student\Documents\2124\lab03_06_Conversion\lab03_06_Conversion\obj\Debug\net8.0\lab03_06_Conversion.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab03_06_Conversion\lab03_06_Conversion\obj\Debug\net8.0\ref\lab03_06_Conversion.dll

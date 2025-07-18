@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab07_01_Debugging\lab07_01_Debugging\bin\Debug\net8.0\lab07_01_Debugging.exe
+C:\Users\Student\Documents\2124\lab07_01_Debugging\lab07_01_Debugging\bin\Debug\net8.0\lab07_01_Debugging.deps.json
+C:\Users\Student\Documents\2124\lab07_01_Debugging\lab07_01_Debugging\bin\Debug\net8.0\lab07_01_Debugging.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab07_01_Debugging\lab07_01_Debugging\bin\Debug\net8.0\lab07_01_Debugging.dll
+C:\Users\Student\Documents\2124\lab07_01_Debugging\lab07_01_Debugging\bin\Debug\net8.0\lab07_01_Debugging.pdb
+C:\Users\Student\Documents\2124\lab07_01_Debugging\lab07_01_Debugging\obj\Debug\net8.0\lab07_01_Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab07_01_Debugging\lab07_01_Debugging\obj\Debug\net8.0\lab07_01_Debugging.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab07_01_Debugging\lab07_01_Debugging\obj\Debug\net8.0\lab07_01_Debugging.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab07_01_Debugging\lab07_01_Debugging\obj\Debug\net8.0\lab07_01_Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab07_01_Debugging\lab07_01_Debugging\obj\Debug\net8.0\lab07_01_Debugging.dll
+C:\Users\Student\Documents\2124\lab07_01_Debugging\lab07_01_Debugging\obj\Debug\net8.0\refint\lab07_01_Debugging.dll
+C:\Users\Student\Documents\2124\lab07_01_Debugging\lab07_01_Debugging\obj\Debug\net8.0\lab07_01_Debugging.pdb
+C:\Users\Student\Documents\2124\lab07_01_Debugging\lab07_01_Debugging\obj\Debug\net8.0\lab07_01_Debugging.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab07_01_Debugging\lab07_01_Debugging\obj\Debug\net8.0\ref\lab07_01_Debugging.dll

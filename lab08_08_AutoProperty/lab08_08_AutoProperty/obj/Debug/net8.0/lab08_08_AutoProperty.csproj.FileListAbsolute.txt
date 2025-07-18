@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab08_08_AutoProperty\lab08_08_AutoProperty\obj\Debug\net8.0\lab08_08_AutoProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab08_08_AutoProperty\lab08_08_AutoProperty\obj\Debug\net8.0\lab08_08_AutoProperty.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab08_08_AutoProperty\lab08_08_AutoProperty\obj\Debug\net8.0\lab08_08_AutoProperty.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab08_08_AutoProperty\lab08_08_AutoProperty\obj\Debug\net8.0\lab08_08_AutoProperty.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab08_08_AutoProperty\lab08_08_AutoProperty\bin\Debug\net8.0\lab08_08_AutoProperty.exe
+C:\Users\Student\Documents\2124\lab08_08_AutoProperty\lab08_08_AutoProperty\bin\Debug\net8.0\lab08_08_AutoProperty.deps.json
+C:\Users\Student\Documents\2124\lab08_08_AutoProperty\lab08_08_AutoProperty\bin\Debug\net8.0\lab08_08_AutoProperty.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab08_08_AutoProperty\lab08_08_AutoProperty\bin\Debug\net8.0\lab08_08_AutoProperty.dll
+C:\Users\Student\Documents\2124\lab08_08_AutoProperty\lab08_08_AutoProperty\bin\Debug\net8.0\lab08_08_AutoProperty.pdb
+C:\Users\Student\Documents\2124\lab08_08_AutoProperty\lab08_08_AutoProperty\obj\Debug\net8.0\lab08_08_AutoProperty.dll
+C:\Users\Student\Documents\2124\lab08_08_AutoProperty\lab08_08_AutoProperty\obj\Debug\net8.0\refint\lab08_08_AutoProperty.dll
+C:\Users\Student\Documents\2124\lab08_08_AutoProperty\lab08_08_AutoProperty\obj\Debug\net8.0\lab08_08_AutoProperty.pdb
+C:\Users\Student\Documents\2124\lab08_08_AutoProperty\lab08_08_AutoProperty\obj\Debug\net8.0\lab08_08_AutoProperty.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab08_08_AutoProperty\lab08_08_AutoProperty\obj\Debug\net8.0\ref\lab08_08_AutoProperty.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lab08_06_Static/1.0.0": {
+        "runtime": {
+          "lab08_06_Static.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab08_06_Static/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

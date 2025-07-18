@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab08_03_ValRefTypes\lab08_03_ValRefTypes\bin\Debug\net8.0\lab08_03_ValRefTypes.exe
+C:\Users\Student\Documents\2124\lab08_03_ValRefTypes\lab08_03_ValRefTypes\bin\Debug\net8.0\lab08_03_ValRefTypes.deps.json
+C:\Users\Student\Documents\2124\lab08_03_ValRefTypes\lab08_03_ValRefTypes\bin\Debug\net8.0\lab08_03_ValRefTypes.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab08_03_ValRefTypes\lab08_03_ValRefTypes\bin\Debug\net8.0\lab08_03_ValRefTypes.dll
+C:\Users\Student\Documents\2124\lab08_03_ValRefTypes\lab08_03_ValRefTypes\bin\Debug\net8.0\lab08_03_ValRefTypes.pdb
+C:\Users\Student\Documents\2124\lab08_03_ValRefTypes\lab08_03_ValRefTypes\obj\Debug\net8.0\lab08_03_ValRefTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab08_03_ValRefTypes\lab08_03_ValRefTypes\obj\Debug\net8.0\lab08_03_ValRefTypes.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab08_03_ValRefTypes\lab08_03_ValRefTypes\obj\Debug\net8.0\lab08_03_ValRefTypes.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab08_03_ValRefTypes\lab08_03_ValRefTypes\obj\Debug\net8.0\lab08_03_ValRefTypes.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab08_03_ValRefTypes\lab08_03_ValRefTypes\obj\Debug\net8.0\lab08_03_ValRefTypes.dll
+C:\Users\Student\Documents\2124\lab08_03_ValRefTypes\lab08_03_ValRefTypes\obj\Debug\net8.0\refint\lab08_03_ValRefTypes.dll
+C:\Users\Student\Documents\2124\lab08_03_ValRefTypes\lab08_03_ValRefTypes\obj\Debug\net8.0\lab08_03_ValRefTypes.pdb
+C:\Users\Student\Documents\2124\lab08_03_ValRefTypes\lab08_03_ValRefTypes\obj\Debug\net8.0\lab08_03_ValRefTypes.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab08_03_ValRefTypes\lab08_03_ValRefTypes\obj\Debug\net8.0\ref\lab08_03_ValRefTypes.dll

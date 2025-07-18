@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\JarmilaCreateArray\JarmilaCreateArray\bin\Debug\net8.0\JarmilaCreateArray.exe
+C:\Users\Student\Documents\2124\JarmilaCreateArray\JarmilaCreateArray\bin\Debug\net8.0\JarmilaCreateArray.deps.json
+C:\Users\Student\Documents\2124\JarmilaCreateArray\JarmilaCreateArray\bin\Debug\net8.0\JarmilaCreateArray.runtimeconfig.json
+C:\Users\Student\Documents\2124\JarmilaCreateArray\JarmilaCreateArray\bin\Debug\net8.0\JarmilaCreateArray.dll
+C:\Users\Student\Documents\2124\JarmilaCreateArray\JarmilaCreateArray\bin\Debug\net8.0\JarmilaCreateArray.pdb
+C:\Users\Student\Documents\2124\JarmilaCreateArray\JarmilaCreateArray\obj\Debug\net8.0\JarmilaCreateArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\JarmilaCreateArray\JarmilaCreateArray\obj\Debug\net8.0\JarmilaCreateArray.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\JarmilaCreateArray\JarmilaCreateArray\obj\Debug\net8.0\JarmilaCreateArray.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\JarmilaCreateArray\JarmilaCreateArray\obj\Debug\net8.0\JarmilaCreateArray.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\JarmilaCreateArray\JarmilaCreateArray\obj\Debug\net8.0\JarmilaCreateArray.dll
+C:\Users\Student\Documents\2124\JarmilaCreateArray\JarmilaCreateArray\obj\Debug\net8.0\refint\JarmilaCreateArray.dll
+C:\Users\Student\Documents\2124\JarmilaCreateArray\JarmilaCreateArray\obj\Debug\net8.0\JarmilaCreateArray.pdb
+C:\Users\Student\Documents\2124\JarmilaCreateArray\JarmilaCreateArray\obj\Debug\net8.0\JarmilaCreateArray.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\JarmilaCreateArray\JarmilaCreateArray\obj\Debug\net8.0\ref\JarmilaCreateArray.dll

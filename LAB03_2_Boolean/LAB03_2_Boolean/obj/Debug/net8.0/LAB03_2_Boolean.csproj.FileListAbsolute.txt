@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\LAB03_2_Boolean\LAB03_2_Boolean\obj\Debug\net8.0\LAB03_2_Boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\LAB03_2_Boolean\LAB03_2_Boolean\obj\Debug\net8.0\LAB03_2_Boolean.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\LAB03_2_Boolean\LAB03_2_Boolean\obj\Debug\net8.0\LAB03_2_Boolean.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\LAB03_2_Boolean\LAB03_2_Boolean\obj\Debug\net8.0\LAB03_2_Boolean.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\LAB03_2_Boolean\LAB03_2_Boolean\bin\Debug\net8.0\LAB03_2_Boolean.exe
+C:\Users\Student\Documents\2124\LAB03_2_Boolean\LAB03_2_Boolean\bin\Debug\net8.0\LAB03_2_Boolean.deps.json
+C:\Users\Student\Documents\2124\LAB03_2_Boolean\LAB03_2_Boolean\bin\Debug\net8.0\LAB03_2_Boolean.runtimeconfig.json
+C:\Users\Student\Documents\2124\LAB03_2_Boolean\LAB03_2_Boolean\bin\Debug\net8.0\LAB03_2_Boolean.dll
+C:\Users\Student\Documents\2124\LAB03_2_Boolean\LAB03_2_Boolean\bin\Debug\net8.0\LAB03_2_Boolean.pdb
+C:\Users\Student\Documents\2124\LAB03_2_Boolean\LAB03_2_Boolean\obj\Debug\net8.0\LAB03_2_Boolean.dll
+C:\Users\Student\Documents\2124\LAB03_2_Boolean\LAB03_2_Boolean\obj\Debug\net8.0\refint\LAB03_2_Boolean.dll
+C:\Users\Student\Documents\2124\LAB03_2_Boolean\LAB03_2_Boolean\obj\Debug\net8.0\LAB03_2_Boolean.pdb
+C:\Users\Student\Documents\2124\LAB03_2_Boolean\LAB03_2_Boolean\obj\Debug\net8.0\LAB03_2_Boolean.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\LAB03_2_Boolean\LAB03_2_Boolean\obj\Debug\net8.0\ref\LAB03_2_Boolean.dll

@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab05_02_OutParams\lab05_02_OutParams\obj\Debug\net8.0\lab05_02_OutParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab05_02_OutParams\lab05_02_OutParams\obj\Debug\net8.0\lab05_02_OutParams.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab05_02_OutParams\lab05_02_OutParams\obj\Debug\net8.0\lab05_02_OutParams.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab05_02_OutParams\lab05_02_OutParams\obj\Debug\net8.0\lab05_02_OutParams.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab05_02_OutParams\lab05_02_OutParams\bin\Debug\net8.0\lab05_02_OutParams.exe
+C:\Users\Student\Documents\2124\lab05_02_OutParams\lab05_02_OutParams\bin\Debug\net8.0\lab05_02_OutParams.deps.json
+C:\Users\Student\Documents\2124\lab05_02_OutParams\lab05_02_OutParams\bin\Debug\net8.0\lab05_02_OutParams.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab05_02_OutParams\lab05_02_OutParams\bin\Debug\net8.0\lab05_02_OutParams.dll
+C:\Users\Student\Documents\2124\lab05_02_OutParams\lab05_02_OutParams\bin\Debug\net8.0\lab05_02_OutParams.pdb
+C:\Users\Student\Documents\2124\lab05_02_OutParams\lab05_02_OutParams\obj\Debug\net8.0\lab05_02_OutParams.dll
+C:\Users\Student\Documents\2124\lab05_02_OutParams\lab05_02_OutParams\obj\Debug\net8.0\refint\lab05_02_OutParams.dll
+C:\Users\Student\Documents\2124\lab05_02_OutParams\lab05_02_OutParams\obj\Debug\net8.0\lab05_02_OutParams.pdb
+C:\Users\Student\Documents\2124\lab05_02_OutParams\lab05_02_OutParams\obj\Debug\net8.0\lab05_02_OutParams.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab05_02_OutParams\lab05_02_OutParams\obj\Debug\net8.0\ref\lab05_02_OutParams.dll

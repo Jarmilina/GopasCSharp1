@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\JarmilaMultiplicationTable2\JarmilaMultiplicationTable2\bin\Debug\net8.0\JarmilaMultiplicationTable2.exe
+C:\Users\Student\Documents\2124\JarmilaMultiplicationTable2\JarmilaMultiplicationTable2\bin\Debug\net8.0\JarmilaMultiplicationTable2.deps.json
+C:\Users\Student\Documents\2124\JarmilaMultiplicationTable2\JarmilaMultiplicationTable2\bin\Debug\net8.0\JarmilaMultiplicationTable2.runtimeconfig.json
+C:\Users\Student\Documents\2124\JarmilaMultiplicationTable2\JarmilaMultiplicationTable2\bin\Debug\net8.0\JarmilaMultiplicationTable2.dll
+C:\Users\Student\Documents\2124\JarmilaMultiplicationTable2\JarmilaMultiplicationTable2\bin\Debug\net8.0\JarmilaMultiplicationTable2.pdb
+C:\Users\Student\Documents\2124\JarmilaMultiplicationTable2\JarmilaMultiplicationTable2\obj\Debug\net8.0\JarmilaMultiplicationTable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\JarmilaMultiplicationTable2\JarmilaMultiplicationTable2\obj\Debug\net8.0\JarmilaMultiplicationTable2.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\JarmilaMultiplicationTable2\JarmilaMultiplicationTable2\obj\Debug\net8.0\JarmilaMultiplicationTable2.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\JarmilaMultiplicationTable2\JarmilaMultiplicationTable2\obj\Debug\net8.0\JarmilaMultiplicationTable2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\JarmilaMultiplicationTable2\JarmilaMultiplicationTable2\obj\Debug\net8.0\JarmilaMultiplicationTable2.dll
+C:\Users\Student\Documents\2124\JarmilaMultiplicationTable2\JarmilaMultiplicationTable2\obj\Debug\net8.0\refint\JarmilaMultiplicationTable2.dll
+C:\Users\Student\Documents\2124\JarmilaMultiplicationTable2\JarmilaMultiplicationTable2\obj\Debug\net8.0\JarmilaMultiplicationTable2.pdb
+C:\Users\Student\Documents\2124\JarmilaMultiplicationTable2\JarmilaMultiplicationTable2\obj\Debug\net8.0\JarmilaMultiplicationTable2.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\JarmilaMultiplicationTable2\JarmilaMultiplicationTable2\obj\Debug\net8.0\ref\JarmilaMultiplicationTable2.dll

@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\JarmilaGetMax\JarmilaGetMax\bin\Debug\net8.0\JarmilaGetMax.exe
+C:\Users\Student\Documents\2124\JarmilaGetMax\JarmilaGetMax\bin\Debug\net8.0\JarmilaGetMax.deps.json
+C:\Users\Student\Documents\2124\JarmilaGetMax\JarmilaGetMax\bin\Debug\net8.0\JarmilaGetMax.runtimeconfig.json
+C:\Users\Student\Documents\2124\JarmilaGetMax\JarmilaGetMax\bin\Debug\net8.0\JarmilaGetMax.dll
+C:\Users\Student\Documents\2124\JarmilaGetMax\JarmilaGetMax\bin\Debug\net8.0\JarmilaGetMax.pdb
+C:\Users\Student\Documents\2124\JarmilaGetMax\JarmilaGetMax\obj\Debug\net8.0\JarmilaGetMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\JarmilaGetMax\JarmilaGetMax\obj\Debug\net8.0\JarmilaGetMax.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\JarmilaGetMax\JarmilaGetMax\obj\Debug\net8.0\JarmilaGetMax.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\JarmilaGetMax\JarmilaGetMax\obj\Debug\net8.0\JarmilaGetMax.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\JarmilaGetMax\JarmilaGetMax\obj\Debug\net8.0\JarmilaGetMax.dll
+C:\Users\Student\Documents\2124\JarmilaGetMax\JarmilaGetMax\obj\Debug\net8.0\refint\JarmilaGetMax.dll
+C:\Users\Student\Documents\2124\JarmilaGetMax\JarmilaGetMax\obj\Debug\net8.0\JarmilaGetMax.pdb
+C:\Users\Student\Documents\2124\JarmilaGetMax\JarmilaGetMax\obj\Debug\net8.0\JarmilaGetMax.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\JarmilaGetMax\JarmilaGetMax\obj\Debug\net8.0\ref\JarmilaGetMax.dll

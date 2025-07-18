@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab08_01_Classses\lab08_01_Classses\bin\Debug\net8.0\lab08_01_Classses.exe
+C:\Users\Student\Documents\2124\lab08_01_Classses\lab08_01_Classses\bin\Debug\net8.0\lab08_01_Classses.deps.json
+C:\Users\Student\Documents\2124\lab08_01_Classses\lab08_01_Classses\bin\Debug\net8.0\lab08_01_Classses.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab08_01_Classses\lab08_01_Classses\bin\Debug\net8.0\lab08_01_Classses.dll
+C:\Users\Student\Documents\2124\lab08_01_Classses\lab08_01_Classses\bin\Debug\net8.0\lab08_01_Classses.pdb
+C:\Users\Student\Documents\2124\lab08_01_Classses\lab08_01_Classses\obj\Debug\net8.0\lab08_01_Classses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab08_01_Classses\lab08_01_Classses\obj\Debug\net8.0\lab08_01_Classses.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab08_01_Classses\lab08_01_Classses\obj\Debug\net8.0\lab08_01_Classses.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab08_01_Classses\lab08_01_Classses\obj\Debug\net8.0\lab08_01_Classses.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab08_01_Classses\lab08_01_Classses\obj\Debug\net8.0\lab08_01_Classses.dll
+C:\Users\Student\Documents\2124\lab08_01_Classses\lab08_01_Classses\obj\Debug\net8.0\refint\lab08_01_Classses.dll
+C:\Users\Student\Documents\2124\lab08_01_Classses\lab08_01_Classses\obj\Debug\net8.0\lab08_01_Classses.pdb
+C:\Users\Student\Documents\2124\lab08_01_Classses\lab08_01_Classses\obj\Debug\net8.0\lab08_01_Classses.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab08_01_Classses\lab08_01_Classses\obj\Debug\net8.0\ref\lab08_01_Classses.dll

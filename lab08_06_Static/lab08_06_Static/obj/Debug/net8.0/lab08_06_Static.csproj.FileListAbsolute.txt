@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab08_06_Static\lab08_06_Static\obj\Debug\net8.0\lab08_06_Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab08_06_Static\lab08_06_Static\obj\Debug\net8.0\lab08_06_Static.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab08_06_Static\lab08_06_Static\obj\Debug\net8.0\lab08_06_Static.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab08_06_Static\lab08_06_Static\obj\Debug\net8.0\lab08_06_Static.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab08_06_Static\lab08_06_Static\bin\Debug\net8.0\lab08_06_Static.exe
+C:\Users\Student\Documents\2124\lab08_06_Static\lab08_06_Static\bin\Debug\net8.0\lab08_06_Static.deps.json
+C:\Users\Student\Documents\2124\lab08_06_Static\lab08_06_Static\bin\Debug\net8.0\lab08_06_Static.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab08_06_Static\lab08_06_Static\bin\Debug\net8.0\lab08_06_Static.dll
+C:\Users\Student\Documents\2124\lab08_06_Static\lab08_06_Static\bin\Debug\net8.0\lab08_06_Static.pdb
+C:\Users\Student\Documents\2124\lab08_06_Static\lab08_06_Static\obj\Debug\net8.0\lab08_06_Static.dll
+C:\Users\Student\Documents\2124\lab08_06_Static\lab08_06_Static\obj\Debug\net8.0\refint\lab08_06_Static.dll
+C:\Users\Student\Documents\2124\lab08_06_Static\lab08_06_Static\obj\Debug\net8.0\lab08_06_Static.pdb
+C:\Users\Student\Documents\2124\lab08_06_Static\lab08_06_Static\obj\Debug\net8.0\lab08_06_Static.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab08_06_Static\lab08_06_Static\obj\Debug\net8.0\ref\lab08_06_Static.dll

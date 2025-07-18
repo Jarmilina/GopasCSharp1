@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab_04_01_Conditions\lab_04_01_Conditions\obj\Debug\net8.0\lab_04_01_Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab_04_01_Conditions\lab_04_01_Conditions\obj\Debug\net8.0\lab_04_01_Conditions.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab_04_01_Conditions\lab_04_01_Conditions\obj\Debug\net8.0\lab_04_01_Conditions.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab_04_01_Conditions\lab_04_01_Conditions\obj\Debug\net8.0\lab_04_01_Conditions.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab_04_01_Conditions\lab_04_01_Conditions\bin\Debug\net8.0\lab_04_01_Conditions.exe
+C:\Users\Student\Documents\2124\lab_04_01_Conditions\lab_04_01_Conditions\bin\Debug\net8.0\lab_04_01_Conditions.deps.json
+C:\Users\Student\Documents\2124\lab_04_01_Conditions\lab_04_01_Conditions\bin\Debug\net8.0\lab_04_01_Conditions.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab_04_01_Conditions\lab_04_01_Conditions\bin\Debug\net8.0\lab_04_01_Conditions.dll
+C:\Users\Student\Documents\2124\lab_04_01_Conditions\lab_04_01_Conditions\bin\Debug\net8.0\lab_04_01_Conditions.pdb
+C:\Users\Student\Documents\2124\lab_04_01_Conditions\lab_04_01_Conditions\obj\Debug\net8.0\lab_04_01_Conditions.dll
+C:\Users\Student\Documents\2124\lab_04_01_Conditions\lab_04_01_Conditions\obj\Debug\net8.0\refint\lab_04_01_Conditions.dll
+C:\Users\Student\Documents\2124\lab_04_01_Conditions\lab_04_01_Conditions\obj\Debug\net8.0\lab_04_01_Conditions.pdb
+C:\Users\Student\Documents\2124\lab_04_01_Conditions\lab_04_01_Conditions\obj\Debug\net8.0\lab_04_01_Conditions.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab_04_01_Conditions\lab_04_01_Conditions\obj\Debug\net8.0\ref\lab_04_01_Conditions.dll

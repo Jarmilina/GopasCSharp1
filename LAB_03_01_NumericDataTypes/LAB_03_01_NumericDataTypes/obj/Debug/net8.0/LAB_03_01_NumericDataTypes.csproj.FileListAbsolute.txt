@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\LAB_03_01_NumericDataTypes\LAB_03_01_NumericDataTypes\bin\Debug\net8.0\LAB_03_01_NumericDataTypes.exe
+C:\Users\Student\Documents\2124\LAB_03_01_NumericDataTypes\LAB_03_01_NumericDataTypes\bin\Debug\net8.0\LAB_03_01_NumericDataTypes.deps.json
+C:\Users\Student\Documents\2124\LAB_03_01_NumericDataTypes\LAB_03_01_NumericDataTypes\bin\Debug\net8.0\LAB_03_01_NumericDataTypes.runtimeconfig.json
+C:\Users\Student\Documents\2124\LAB_03_01_NumericDataTypes\LAB_03_01_NumericDataTypes\bin\Debug\net8.0\LAB_03_01_NumericDataTypes.dll
+C:\Users\Student\Documents\2124\LAB_03_01_NumericDataTypes\LAB_03_01_NumericDataTypes\bin\Debug\net8.0\LAB_03_01_NumericDataTypes.pdb
+C:\Users\Student\Documents\2124\LAB_03_01_NumericDataTypes\LAB_03_01_NumericDataTypes\obj\Debug\net8.0\LAB_03_01_NumericDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\LAB_03_01_NumericDataTypes\LAB_03_01_NumericDataTypes\obj\Debug\net8.0\LAB_03_01_NumericDataTypes.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\LAB_03_01_NumericDataTypes\LAB_03_01_NumericDataTypes\obj\Debug\net8.0\LAB_03_01_NumericDataTypes.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\LAB_03_01_NumericDataTypes\LAB_03_01_NumericDataTypes\obj\Debug\net8.0\LAB_03_01_NumericDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\LAB_03_01_NumericDataTypes\LAB_03_01_NumericDataTypes\obj\Debug\net8.0\LAB_03_01_NumericDataTypes.dll
+C:\Users\Student\Documents\2124\LAB_03_01_NumericDataTypes\LAB_03_01_NumericDataTypes\obj\Debug\net8.0\refint\LAB_03_01_NumericDataTypes.dll
+C:\Users\Student\Documents\2124\LAB_03_01_NumericDataTypes\LAB_03_01_NumericDataTypes\obj\Debug\net8.0\LAB_03_01_NumericDataTypes.pdb
+C:\Users\Student\Documents\2124\LAB_03_01_NumericDataTypes\LAB_03_01_NumericDataTypes\obj\Debug\net8.0\LAB_03_01_NumericDataTypes.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\LAB_03_01_NumericDataTypes\LAB_03_01_NumericDataTypes\obj\Debug\net8.0\ref\LAB_03_01_NumericDataTypes.dll

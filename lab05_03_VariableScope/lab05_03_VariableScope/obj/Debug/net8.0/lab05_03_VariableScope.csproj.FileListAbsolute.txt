@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\2124\lab05_03_VariableScope\lab05_03_VariableScope\obj\Debug\net8.0\lab05_03_VariableScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\2124\lab05_03_VariableScope\lab05_03_VariableScope\obj\Debug\net8.0\lab05_03_VariableScope.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\lab05_03_VariableScope\lab05_03_VariableScope\obj\Debug\net8.0\lab05_03_VariableScope.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\lab05_03_VariableScope\lab05_03_VariableScope\obj\Debug\net8.0\lab05_03_VariableScope.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\2124\lab05_03_VariableScope\lab05_03_VariableScope\bin\Debug\net8.0\lab05_03_VariableScope.exe
+C:\Users\Student\Documents\2124\lab05_03_VariableScope\lab05_03_VariableScope\bin\Debug\net8.0\lab05_03_VariableScope.deps.json
+C:\Users\Student\Documents\2124\lab05_03_VariableScope\lab05_03_VariableScope\bin\Debug\net8.0\lab05_03_VariableScope.runtimeconfig.json
+C:\Users\Student\Documents\2124\lab05_03_VariableScope\lab05_03_VariableScope\bin\Debug\net8.0\lab05_03_VariableScope.dll
+C:\Users\Student\Documents\2124\lab05_03_VariableScope\lab05_03_VariableScope\bin\Debug\net8.0\lab05_03_VariableScope.pdb
+C:\Users\Student\Documents\2124\lab05_03_VariableScope\lab05_03_VariableScope\obj\Debug\net8.0\lab05_03_VariableScope.dll
+C:\Users\Student\Documents\2124\lab05_03_VariableScope\lab05_03_VariableScope\obj\Debug\net8.0\refint\lab05_03_VariableScope.dll
+C:\Users\Student\Documents\2124\lab05_03_VariableScope\lab05_03_VariableScope\obj\Debug\net8.0\lab05_03_VariableScope.pdb
+C:\Users\Student\Documents\2124\lab05_03_VariableScope\lab05_03_VariableScope\obj\Debug\net8.0\lab05_03_VariableScope.genruntimeconfig.cache
+C:\Users\Student\Documents\2124\lab05_03_VariableScope\lab05_03_VariableScope\obj\Debug\net8.0\ref\lab05_03_VariableScope.dll
